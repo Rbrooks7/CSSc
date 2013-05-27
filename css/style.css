@@ -1,0 +1,333 @@
+.grey {
+    background-color: #e5e6e8;
+
+}
+
+/*
+*****************
+* =header
+*****************
+*/
+.top {
+    background: url(../img/header.jpg) no-repeat;
+    overflow: hidden;
+    width: 1425px;
+    height: 210px;
+    margin: auto;
+}
+
+header h1 {
+    text-indent: -9999px;
+    margin: 10px 10px 20px;
+    float: left;
+}
+
+header h1 a {
+    background: url(../img/csslogo.jpg) no-repeat;
+    width: 346px;
+    height: 82px;
+    float: left;
+    margin-left:167px;
+    margin-top: 30px;
+}
+
+header p {
+    float: right;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    margin-right: 235px;
+    margin-top: 35px;
+}
+
+.short {
+    margin-right: -265px;
+}
+
+nav {
+    background: url(../img/nav.jpg);
+    width: 1007px;
+    height: 70px;
+    margin: 116px 175px;
+    position: absolute;
+    font-size: 18px;
+    word-spacing: 25px;
+
+
+}
+
+nav li {
+    display: inline;    
+    margin-left: 50px;
+    margin-top: 35px;
+    position: relative;
+}
+
+nav a { 
+    color: white;
+    text-decoration: none;
+}
+
+/*
+*****************
+* =wrap
+*****************
+*/
+.wrap {
+    background: white;
+    width: 985px;
+    height: 1800px;
+    margin: 0 245px ;
+    padding-left: 25px;
+}
+
+/*
+*****************
+* =slide
+*****************
+*/
+.slide {
+    top: 22px; 
+    background: url(../img/slide02.jpg) no-repeat;
+    width: 950px;
+    height: 448px;
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 22px;
+    }
+
+.slide h2 {
+    font-size: 32px;
+    color: white;
+    position: absolute; 
+    margin: 150px 0px 0px 630px ;
+    text-indent: 27px;
+    padding: 5px 12px;
+    background: rgba(0,0,0, .5);
+}
+
+/*
+*****************
+* =banner
+*****************
+*/
+
+.banner {
+    background: black;
+    width: 950px;
+    height: 178px;
+    padding-top: 40px;
+    margin-bottom: 50px;
+
+   
+}
+
+.trio {
+    float: left;
+    width: 110px;
+    padding-left: 20px;
+
+}
+.trio img {
+    padding-bottom: 1px;
+   } 
+
+.h3 {
+    color: white;
+    font-size: 32px;       
+    margin: auto;
+   
+   }
+.text {
+    float: left;
+    width: 125px;
+    height:155px;
+    line-height: 1.5em;
+    padding-right: 60px;
+}
+
+.uno, .dos, .tres {
+    color: white;
+       
+}
+
+.button {
+    background: #a1a0a0;
+    padding: 6px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+    float: left;
+    width: 78px;
+}
+
+a {text-decoration: none;}
+
+
+/*
+*****************
+* =creative design
+*****************
+*/
+
+.werd {
+    
+    width: 950px;
+    height: 220px;
+    margin-bottom: 50px;
+}
+
+.creative {
+    width: 221px;
+    height: 209px;
+    float: left;
+    margin-right: 15px;
+}
+
+.tag {
+    width: 390px;
+    height: 209px;
+    float: left;
+   
+}
+
+.tag h3 {
+    margin-top: -08px;
+    font-size: 32px;
+}
+
+
+
+/*
+*****************
+* =can
+*****************
+*/
+
+.can {
+   
+    
+    width: 610px;
+    height: 450px;
+    
+    
+
+}
+.pop {
+    position: absolute;
+    width: 230px;
+    height: 450px;
+    float: left;
+    margin-right: 30px;
+}
+
+.in {
+    margin-left: 10px;
+}
+
+.light {
+    color: gray;
+}
+
+.split em {
+    color: blue;
+}
+
+.blue {
+    color: blue;
+    float: right;
+}
+
+.new {
+    width: 230px;
+    float: right;
+    
+    
+     
+}
+
+.can h3 { 
+    font-size: 32px;
+}
+
+.bue {
+    color: blue;
+}
+
+.black {
+    color: white;
+    background-color: black;
+    width: 68px;
+    height: 24px;
+    padding-top: 10px; 
+}
+
+
+/*
+*****************
+* =aside
+*****************
+*/
+
+.aside {
+    margin-top: -30px;
+    float: right;
+    width: 230px;
+    height: 230px;
+}
+
+.header {
+    height: 80px;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    margin-bottom: -25px;
+    line-height: 2em;
+    text-indent: 15px;
+}
+
+.stack {
+    position: top;
+    background-color: #f4f5f4;
+    width: 230px;
+    height: 200px;
+
+}
+
+.stack img {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 25px;
+}
+
+.stack h4 {
+    float: right;
+    font-size: 11px;
+    width: 185px;
+}
+
+.left {
+    float: left;
+}
+
+.stack2 {
+    float: left;
+    background-color: #f4f5f4;
+    width: 230px;
+    height: 200px;
+
+}
+
+.stack2 img {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 25px;
+}
+
+.stack2 h4 {
+    float: right;
+    font-size: 11px;
+    width: 185px;
+}
